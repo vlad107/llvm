@@ -12,6 +12,7 @@ add_llvm_library(LLVMAnalysis
   CFG.cpp
   CFGPrinter.cpp
   CFLAndersAliasAnalysis.cpp
+  CFLDummyAliasAnalysis.cpp
   CFLSteensAliasAnalysis.cpp
   CGSCCPassManager.cpp
   CallGraph.cpp

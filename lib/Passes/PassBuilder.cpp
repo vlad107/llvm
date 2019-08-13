@@ -25,6 +25,7 @@
 #include "llvm/Analysis/CFGPrinter.h"
 #include "llvm/Analysis/CFLAndersAliasAnalysis.h"
 #include "llvm/Analysis/CFLSteensAliasAnalysis.h"
+#include "llvm/Analysis/CFLDummyAliasAnalysis.h"
 #include "llvm/Analysis/CGSCCPassManager.h"
 #include "llvm/Analysis/CallGraph.h"
 #include "llvm/Analysis/DemandedBits.h"
